@@ -1,6 +1,6 @@
 # Chat-GPT-Retrieval Plugin Setup
 
-This is a Python project for setting up a Chat-GPT-Retrieval Plugin server to interact with the OpenAI API and perform document retrieval with Pinecone datastore. The other datastores will be implemented soon.
+This is a GUI Tool for quickly setting up a Chat-GPT-Retrieval Plugin server to perform document retrieval with Pinecone datastore based on the document folder your specify. The other datastores will be implemented soon.
 
 ## Table of Contents
 - [Requirements](#requirements)
