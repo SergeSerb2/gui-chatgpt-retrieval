@@ -9,7 +9,7 @@ def set_environment_variables(datastore, env_vars):
         os.environ[var_name] = var_value
 
 def vectorize_and_upload_docs(datastore, docs_path):
-    subprocess.Popen(["/Users/sergeserbinenko/miniconda3/bin/python", "vectorizeAndUploadDocs.py", datastore, docs_path])
+    subprocess.Popen(["python", "vectorizeAndUploadDocs.py", datastore, docs_path])
 
         
 def run_plugin_server():
