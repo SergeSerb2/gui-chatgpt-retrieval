@@ -1,0 +1,8 @@
+tkinter
+PyPDF2
+python-docx
+pandas
+beautifulsoup4
+openpyxl
+langchain
+pinecone
