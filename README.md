@@ -38,7 +38,7 @@ python gui.py
 3. Select the folder where your documents are stored. (Files supported range from .txt, .pdf, .doc/.docx, .xlsx, .csv, and many code files as well)
 4. Click the "Submit" button.
 
-Please note that if the index hasn't been created yet, an error is likely to occur. Simply rerun the program once the index is created, and no issues should persist. Once the server is running, you can access it at `localhost:3333`.
+Please note that if the index hasn't been created yet, an error is likely to occur (but you can still run the program to create the index). Simply rerun the program once the index is created, and no issues should persist. Once the server is running, you can access it at `localhost:3333`.
 
 ## License
 
